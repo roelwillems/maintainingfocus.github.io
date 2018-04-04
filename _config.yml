@@ -1,0 +1,49 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# - markdown: kramdown
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+title: "Maintaining Focus"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/maintainingfocus\">@maintainingfocus on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/maintainingfocus\">@maintainingfocus on Micro.blog</a>."
+baseurl: ""
+url: "http://maintainingfocus.com"
+markdown: "kramdown"
+username: "maintainingfocus"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Maintaining Focus"
+name: "Maintaining Focus"
+gravatar_hash: "b8b651864c3d8b46ea6ed88a572783c1"
+avatar: "https://micro.blog/maintainingfocus/avatar.jpg"
+full_name: "Maintaining Focus"
+bio: ""
+twitter_username: ""
+github_username: ""
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "Poland"
+site_id: "3708"
+gems: ["jekyll-paginate"]
