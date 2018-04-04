@@ -1,0 +1,30 @@
+.browse-menu .widget-contact form button {
+    background: #303030;
+    border: 0;
+    border-radius: 2px;
+    color: #fff;
+    float: left;
+    margin-top: 15px;
+    padding: 5px 15px;
+    cursor: pointer;
+}
+input, textarea, button {
+    font-family: 'Unna', Georgia, Serif;
+    font-size: 1em;
+    transition: 0.5s;
+}
+
+.browse-menu .widget-contact form input, .browse-menu .widget-contact form textarea {
+    width: 100%;
+    padding: 15px 0;
+    border: 0;
+        border-bottom-width: 0px;
+        border-bottom-style: none;
+        border-bottom-color: currentcolor;
+    border-bottom: 1px solid #eee;
+}
+input, textarea, button {
+    font-family: 'Unna', Georgia, Serif;
+    font-size: 1em;
+    transition: 0.5s;
+}
