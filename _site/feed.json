@@ -5,5 +5,175 @@
 	"feed_url": "http://maintainingfocus.com/feed.json",
 	"items": [
 		
+		{
+			"id": "http://maintainingfocus.micro.blog/2017/07/08/untitled.html",
+	      	
+			"title": "16/365 - untitled",
+			
+			"content_html": "<div class=\"kg-card-markdown\"><p><img src=\"/wp-content/uploads/2018/04/16-365---untitled-1024x768.jpg\" alt=\"untitled\" /></p>\n</div>\n",
+			"date_published": "2017-07-08T16:55:00+02:00",
+			"url": "http://maintainingfocus.com/2017/07/08/untitled.html"
+		},
+		
+		{
+			"id": "http://maintainingfocus.micro.blog/2017/07/07/perfect-landing.html",
+	      	
+			"title": "15/365 - perfect landing",
+			
+			"content_html": "<div class=\"kg-card-markdown\"><p><img src=\"/wp-content/uploads/2018/04/15-365---perfect-landing-1024x768.jpg\" alt=\"15-365---perfect-landing\" /></p>\n</div>\n",
+			"date_published": "2017-07-07T21:00:19+02:00",
+			"url": "http://maintainingfocus.com/2017/07/07/perfect-landing.html"
+		},
+		
+		{
+			"id": "http://maintainingfocus.micro.blog/2017/07/06/soft-focus.html",
+	      	
+			"title": "14/365 - soft focus",
+			
+			"content_html": "<div class=\"kg-card-markdown\"><p><img src=\"/wp-content/uploads/2018/04/14-365---soft-focus-1024x683.jpg\" alt=\"soft-focus\" /></p>\n</div>\n",
+			"date_published": "2017-07-06T21:24:00+02:00",
+			"url": "http://maintainingfocus.com/2017/07/06/soft-focus.html"
+		},
+		
+		{
+			"id": "http://maintainingfocus.micro.blog/2017/07/05/abstract.html",
+	      	
+			"title": "13/365 - abstract",
+			
+			"content_html": "<div class=\"kg-card-markdown\"><p><img src=\"/wp-content/uploads/2018/04/13-365---abstract-1024x1024.jpg\" alt=\"abstract\" /></p>\n</div>\n",
+			"date_published": "2017-07-05T22:03:27+02:00",
+			"url": "http://maintainingfocus.com/2017/07/05/abstract.html"
+		},
+		
+		{
+			"id": "http://maintainingfocus.micro.blog/2017/07/04/the-beach.html",
+	      	
+			"title": "12/365 - the beach",
+			
+			"content_html": "<div class=\"kg-card-markdown\"><p><img src=\"/wp-content/uploads/2018/04/12-365---the-beach-683x1024.jpg\" alt=\"the-beach\" /></p>\n</div>\n",
+			"date_published": "2017-07-04T21:23:34+02:00",
+			"url": "http://maintainingfocus.com/2017/07/04/the-beach.html"
+		},
+		
+		{
+			"id": "http://maintainingfocus.micro.blog/2017/07/03/blue-monday.html",
+	      	
+			"title": "11/365 - blue monday",
+			
+			"content_html": "<div class=\"kg-card-markdown\"><p><img src=\"/wp-content/uploads/2018/04/11-365---blue-monday-1024x683.jpg\" alt=\"blue-monday\" /></p>\n</div>\n",
+			"date_published": "2017-07-03T21:36:39+02:00",
+			"url": "http://maintainingfocus.com/2017/07/03/blue-monday.html"
+		},
+		
+		{
+			"id": "http://maintainingfocus.micro.blog/2017/07/02/rings.html",
+	      	
+			"title": "10/365 - rings",
+			
+			"content_html": "<div class=\"kg-card-markdown\"><p><img src=\"/wp-content/uploads/2018/04/10-365---rings-1024x768.jpg\" alt=\"rings\" /></p>\n</div>\n",
+			"date_published": "2017-07-02T22:09:46+02:00",
+			"url": "http://maintainingfocus.com/2017/07/02/rings.html"
+		},
+		
+		{
+			"id": "http://maintainingfocus.micro.blog/2017/07/01/sharpness.html",
+	      	
+			"title": "9/365 -sharpness",
+			
+			"content_html": "<div class=\"kg-card-markdown\"><p><img src=\"/wp-content/uploads/2018/04/9-365---sharpness-1024x768.jpg\" alt=\"sharpness\" /></p>\n</div>\n",
+			"date_published": "2017-07-01T21:51:45+02:00",
+			"url": "http://maintainingfocus.com/2017/07/01/sharpness.html"
+		},
+		
+		{
+			"id": "http://maintainingfocus.micro.blog/2017/06/30/peaking.html",
+	      	
+			"title": "8/365 - peaking",
+			
+			"content_html": "<div class=\"kg-card-markdown\"><p><img src=\"/wp-content/uploads/2018/04/8-365---peaking-1024x1024.jpg\" alt=\"peaking\" /></p>\n</div>\n",
+			"date_published": "2017-06-30T12:10:00+02:00",
+			"url": "http://maintainingfocus.com/2017/06/30/peaking.html"
+		},
+		
+		{
+			"id": "http://maintainingfocus.micro.blog/2017/06/29/we-travel-alone.html",
+	      	
+			"title": "7/365 - we travel alone",
+			
+			"content_html": "<div class=\"kg-card-markdown\"><p><img src=\"/wp-content/uploads/2018/04/7-365---we-travel-alone-1024x731.jpg\" alt=\"we-travel-alone\" /></p>\n</div>\n",
+			"date_published": "2017-06-29T22:06:32+02:00",
+			"url": "http://maintainingfocus.com/2017/06/29/we-travel-alone.html"
+		},
+		
+		{
+			"id": "http://maintainingfocus.micro.blog/2017/06/28/caught-in-reflection.html",
+	      	
+			"title": "6/365 - caught in reflection",
+			
+			"content_html": "<div class=\"kg-card-markdown\"><p><img src=\"/wp-content/uploads/2018/04/6-365---caught-in-reflection-1024x683.jpg\" alt=\"caught-in-reflection\" /></p>\n</div>\n",
+			"date_published": "2017-06-28T20:39:11+02:00",
+			"url": "http://maintainingfocus.com/2017/06/28/caught-in-reflection.html"
+		},
+		
+		{
+			"id": "http://maintainingfocus.micro.blog/2017/06/27/leaves.html",
+	      	
+			"title": "5/365 - leaves",
+			
+			"content_html": "<div class=\"kg-card-markdown\"><p><img src=\"/wp-content/uploads/2018/04/5-365---leaves-1024x768.jpg\" alt=\"leaves\" /></p>\n</div>\n",
+			"date_published": "2017-06-27T19:23:10+02:00",
+			"url": "http://maintainingfocus.com/2017/06/27/leaves.html"
+		},
+		
+		{
+			"id": "http://maintainingfocus.micro.blog/2017/06/26/clouds.html",
+	      	
+			"title": "4/365 - clouds",
+			
+			"content_html": "<div class=\"kg-card-markdown\"><p><img src=\"/wp-content/uploads/2018/04/4-365---clouds-1024x576.jpg\" alt=\"clouds\" /></p>\n</div>\n",
+			"date_published": "2017-06-26T22:45:27+02:00",
+			"url": "http://maintainingfocus.com/2017/06/26/clouds.html"
+		},
+		
+		{
+			"id": "http://maintainingfocus.micro.blog/2017/06/25/the-bird.html",
+	      	
+			"title": "3/365 - the bird",
+			
+			"content_html": "<div class=\"kg-card-markdown\"><p><img src=\"/wp-content/uploads/2018/04/3-365---the-bird-1024x768.jpg\" alt=\"the-bird\" /></p>\n</div>\n",
+			"date_published": "2017-06-25T22:38:00+02:00",
+			"url": "http://maintainingfocus.com/2017/06/25/the-bird.html"
+		},
+		
+		{
+			"id": "http://maintainingfocus.micro.blog/2017/06/24/contrasts.html",
+	      	
+			"title": "2/365 - contrasts",
+			
+			"content_html": "<div class=\"kg-card-markdown\"><p><img src=\"/wp-content/uploads/2018/04/2-365---contrasts-1024x1024.jpg\" alt=\"contrasts\" /></p>\n</div>\n",
+			"date_published": "2017-06-24T22:33:00+02:00",
+			"url": "http://maintainingfocus.com/2017/06/24/contrasts.html"
+		},
+		
+		{
+			"id": "http://maintainingfocus.micro.blog/2017/06/23/light.html",
+	      	
+			"title": "1/365 - light",
+			
+			"content_html": "<div class=\"kg-card-markdown\"><p><img src=\"/wp-content/uploads/2018/04/1-365---light-1024x1024.jpg\" alt=\"light\" /></p>\n</div>\n",
+			"date_published": "2017-06-23T22:31:00+02:00",
+			"url": "http://maintainingfocus.com/2017/06/23/light.html"
+		},
+		
+		{
+			"id": "http://maintainingfocus.micro.blog/2017/06/22/the-start.html",
+	      	
+			"title": "The start",
+			
+			"content_html": "<div class=\"kg-card-markdown\">\n\nThis is the mark of something new. In order to learn more about photography, I will start blogging about photography and more importantly publishing my work.\n\nI have started a daily photography practice (to do exactly that, practice). You can find those posts tagged with 365.\n\nAdditionally I do want to go out and shoot more series. So more to follow!\n\n</div>\n",
+			"date_published": "2017-06-22T21:57:00+02:00",
+			"url": "http://maintainingfocus.com/2017/06/22/the-start.html"
+		}
+		
 	]
 }
