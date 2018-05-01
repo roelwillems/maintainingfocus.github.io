@@ -6,5 +6,4 @@ audio:
 date: 2017-08-04 20:22:00 +0200
 guid: http://maintainingfocus.micro.blog/2017/08/04/the-man-and.html
 ---
-<div class="kg-card-markdown"><p><img src="/wp-content/uploads/2018/04/43-365---the-man-and-the-bird-1-1024x683.jpg" alt="the-man-and-the-bird-1"></p>
-</div>
+![the man and the bird](https://f000.backblazeb2.com/file/Roel-Share/the-man-and-the-brid.jpg)
