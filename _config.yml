@@ -31,6 +31,7 @@ baseurl: ""
 url: "http://maintainingfocus.com"
 markdown: "kramdown"
 username: "maintainingfocus"
+microblog_user: "maintainingfocus"
 permalink: "/:year/:month/:day/:title.html"
 relative_permalinks: false
 author: "Maintaining Focus"
@@ -49,3 +50,4 @@ site_id: "3708"
 gems: ["jekyll-paginate"]
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
+itunes_author: "Roel Willems"
