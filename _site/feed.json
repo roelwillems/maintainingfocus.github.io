@@ -1,8 +1,9 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Maintaining Focus",
-	"home_page_url": "http://maintainingfocus.com/",
-	"feed_url": "http://maintainingfocus.com/feed.json",
+	"icon": "https://micro.blog/maintainingfocus/avatar.jpg",
+	"home_page_url": "https://maintainingfocus.com/",
+	"feed_url": "https://maintainingfocus.com/feed.json",
 	"items": [
 		
 		{
@@ -12,7 +13,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/depth.jpg\" alt=\"depth\" /></p>\n",
 			"date_published": "2017-09-03T19:57:00+02:00",
-			"url": "http://maintainingfocus.com/2017/09/03/depth.html"
+			"url": "https://maintainingfocus.com/2017/09/03/depth.html"
 		},
 		
 		{
@@ -22,7 +23,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/the-wait-2.jpg\" alt=\"the wait\" /></p>\n",
 			"date_published": "2017-09-02T11:10:00+02:00",
-			"url": "http://maintainingfocus.com/2017/09/02/091000.html"
+			"url": "https://maintainingfocus.com/2017/09/02/091000.html"
 		},
 		
 		{
@@ -32,7 +33,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/light-painting.jpg\" alt=\"light painting\" /></p>\n\n<p>First try at light painting late at night. Had to improvise as I missed the sunset. This meant that there was very little light left in the sky and none on this rock like artwork. Luckely I had a small flashlight in my camera bag and could make do.</p>\n",
 			"date_published": "2017-09-01T21:56:00+02:00",
-			"url": "http://maintainingfocus.com/2017/09/01/light-painting.html"
+			"url": "https://maintainingfocus.com/2017/09/01/light-painting.html"
 		},
 		
 		{
@@ -42,7 +43,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/city-nights-city-lights-2.jpg\" alt=\"city nights, city lights 2\" /></p>\n\n<p>Went out to shoot more landscape. Although the weather was quite bad there were very little well-defined clouds. So I went for a long exposures post processed with the gloomy blue desaturated look.</p>\n",
 			"date_published": "2017-08-30T21:12:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/30/191200.html"
+			"url": "https://maintainingfocus.com/2017/08/30/191200.html"
 		},
 		
 		{
@@ -52,7 +53,7 @@
 			
 			"content_html": "<div class=\"kg-card-markdown\"><p><img src=\"/wp-content/uploads/2018/04/68-365---waiting-for-take-off-1024x768.jpg\" alt=\"68-365---waiting-for-take-off\" /></p>\n<p>I like how the massive structure puts men and bird in to perspective. Although not a perfect shot (the iPhone didn't handle the harsh light all that well) the frame still captured my attention.</p>\n</div>\n",
 			"date_published": "2017-08-29T10:43:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/29/waiting-for-take.html"
+			"url": "https://maintainingfocus.com/2017/08/29/waiting-for-take.html"
 		},
 		
 		{
@@ -62,7 +63,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/steps.jpg\" alt=\"steps\" /></p>\n",
 			"date_published": "2017-08-28T20:07:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/28/180700.html"
+			"url": "https://maintainingfocus.com/2017/08/28/180700.html"
 		},
 		
 		{
@@ -72,7 +73,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/chill.jpg\" alt=\"chill\" /></p>\n",
 			"date_published": "2017-08-27T11:32:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/27/chill.html"
+			"url": "https://maintainingfocus.com/2017/08/27/chill.html"
 		},
 		
 		{
@@ -82,7 +83,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/push.jpg\" alt=\"push\" /></p>\n",
 			"date_published": "2017-08-26T18:56:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/26/push.html"
+			"url": "https://maintainingfocus.com/2017/08/26/push.html"
 		},
 		
 		{
@@ -92,7 +93,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/tight.jpg\" alt=\"tight\" /></p>\n",
 			"date_published": "2017-08-25T19:38:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/25/tight.html"
+			"url": "https://maintainingfocus.com/2017/08/25/tight.html"
 		},
 		
 		{
@@ -102,7 +103,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/distance-of-time-and-place.jpg\" alt=\"distance of time and place\" /></p>\n",
 			"date_published": "2017-08-24T19:02:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/24/distance-of-time.html"
+			"url": "https://maintainingfocus.com/2017/08/24/distance-of-time.html"
 		},
 		
 		{
@@ -112,7 +113,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/perspective-on-travel.jpg\" alt=\"perspective on travel\" /></p>\n",
 			"date_published": "2017-08-23T23:39:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/23/perspective-on-travel.html"
+			"url": "https://maintainingfocus.com/2017/08/23/perspective-on-travel.html"
 		},
 		
 		{
@@ -122,7 +123,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/the-sailor.jpg\" alt=\"the sailor\" /></p>\n",
 			"date_published": "2017-08-22T20:39:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/22/the-sailor.html"
+			"url": "https://maintainingfocus.com/2017/08/22/the-sailor.html"
 		},
 		
 		{
@@ -132,7 +133,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/the-last-drop.jpg\" alt=\"the last drop\" /></p>\n",
 			"date_published": "2017-08-21T11:35:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/21/the-last-drop.html"
+			"url": "https://maintainingfocus.com/2017/08/21/the-last-drop.html"
 		},
 		
 		{
@@ -142,7 +143,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/de-rotterdam.jpg\" alt=\"de rotterdam\" /></p>\n",
 			"date_published": "2017-08-20T17:26:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/20/de-rotterdam.html"
+			"url": "https://maintainingfocus.com/2017/08/20/de-rotterdam.html"
 		},
 		
 		{
@@ -152,7 +153,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/glass.jpg\" alt=\"glass\" /></p>\n",
 			"date_published": "2017-08-19T19:22:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/19/glass.html"
+			"url": "https://maintainingfocus.com/2017/08/19/glass.html"
 		},
 		
 		{
@@ -162,7 +163,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/on-line.jpg\" alt=\"on line\" /></p>\n",
 			"date_published": "2017-08-18T15:45:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/18/on-line.html"
+			"url": "https://maintainingfocus.com/2017/08/18/on-line.html"
 		},
 		
 		{
@@ -172,7 +173,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/56-steps.jpg\" alt=\"steps\" /></p>\n\n<p>Back to street photography for the 365 project. Tying to focus on small things that catch my interest.</p>\n",
 			"date_published": "2017-08-17T14:58:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/17/steps.html"
+			"url": "https://maintainingfocus.com/2017/08/17/steps.html"
 		},
 		
 		{
@@ -182,7 +183,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/city-nights-city-lights.jpg\" alt=\"city nights city lights\" /></p>\n\n<p>Still experimenting with a cinematic look. Personally I like how it brings mood to a shot and works well for a long(er) exposure city shot. Although the subject and light helped a lot, Rotterdam is such a great place to take pictures!</p>\n",
 			"date_published": "2017-08-16T22:37:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/16/city-nights-city.html"
+			"url": "https://maintainingfocus.com/2017/08/16/city-nights-city.html"
 		},
 		
 		{
@@ -192,7 +193,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/bridge.jpg\" alt=\"bridge\" /></p>\n",
 			"date_published": "2017-08-15T21:45:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/15/bridge.html"
+			"url": "https://maintainingfocus.com/2017/08/15/bridge.html"
 		},
 		
 		{
@@ -202,7 +203,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/symmetry.jpg\" alt=\"symmetry\" /></p>\n",
 			"date_published": "2017-08-14T16:36:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/14/symmetry.html"
+			"url": "https://maintainingfocus.com/2017/08/14/symmetry.html"
 		},
 		
 		{
@@ -212,7 +213,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/glow.jpg\" alt=\"glow\" /></p>\n",
 			"date_published": "2017-08-13T12:23:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/13/glow.html"
+			"url": "https://maintainingfocus.com/2017/08/13/glow.html"
 		},
 		
 		{
@@ -222,7 +223,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/senco.jpg\" alt=\"senco\" /></p>\n",
 			"date_published": "2017-08-12T10:12:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/12/senco.html"
+			"url": "https://maintainingfocus.com/2017/08/12/senco.html"
 		},
 		
 		{
@@ -232,7 +233,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/the-master.jpg\" alt=\"the master\" /></p>\n",
 			"date_published": "2017-08-11T23:40:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/11/the-master.html"
+			"url": "https://maintainingfocus.com/2017/08/11/the-master.html"
 		},
 		
 		{
@@ -242,7 +243,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/sun-setting.jpg\" alt=\"sun setting\" /></p>\n",
 			"date_published": "2017-08-10T22:45:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/10/sun-setting.html"
+			"url": "https://maintainingfocus.com/2017/08/10/sun-setting.html"
 		},
 		
 		{
@@ -252,7 +253,7 @@
 			
 			"content_html": "<p><img src=\"https://f000.backblazeb2.com/file/Roel-Share/i-see-you.jpg\" alt=\"i see you\" /></p>\n",
 			"date_published": "2017-08-09T23:00:00+02:00",
-			"url": "http://maintainingfocus.com/2017/08/09/i-see-you.html"
+			"url": "https://maintainingfocus.com/2017/08/09/i-see-you.html"
 		}
 		
 	]
