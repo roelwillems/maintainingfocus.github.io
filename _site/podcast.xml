@@ -2,16 +2,20 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Maintaining Focus</title>
-    <description>Follow &lt;a href=&quot;https://micro.blog/maintainingfocus&quot;&gt;@maintainingfocus on Micro.blog&lt;/a&gt;.</description>
-    <link>http://maintainingfocus.com/</link>
-    <pubDate>Sat, 30 Jun 2018 10:14:02 +0200</pubDate>
-    <lastBuildDate>Sat, 30 Jun 2018 10:14:02 +0200</lastBuildDate>
+    <description>Vision. Focus. Photography.&lt;br&gt; by Roel Willems</description>
+    <link>https://maintainingfocus.com/</link>
+    <pubDate>Sat, 10 Nov 2018 20:42:14 +0100</pubDate>
+    <lastBuildDate>Sat, 10 Nov 2018 20:42:14 +0100</lastBuildDate>
 	<itunes:image href="https://micro.blog/maintainingfocus/podcast.png" />
 	<itunes:category text="Society &amp; Culture">
 		<itunes:category text="Personal Journals"></itunes:category>
 	</itunes:category>
 	<itunes:author>Roel Willems</itunes:author>
 	<itunes:explicit>no</itunes:explicit>		
+	<itunes:owner>
+		<itunes:name>Roel Willems</itunes:name>
+		<itunes:email></itunes:email>
+	</itunes:owner>
 	<language>en</language>
     
 		
