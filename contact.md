@@ -3,7 +3,8 @@ title: "Contact"
 permalink: "/contact/"
 layout: page
 order: 1
-date: 2018-04-03 22:01:22 +0200
+navigation: true
+date: 2018-04-03 21:01:22 +0100
 ---
 Feel free to get in touch for any questions you may have or if you would like like to use, feature or buy any of my images.
 
