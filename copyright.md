@@ -3,7 +3,8 @@ title: "Copyright"
 permalink: "/copyright/"
 layout: page
 order: 2
-date: 2018-04-12 21:46:00 +0200
+navigation: true
+date: 2018-04-12 20:46:00 +0100
 ---
 All images are the property of Roel Willems and protected under Dutch and International copyright laws. 
 
