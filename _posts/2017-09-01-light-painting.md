@@ -3,7 +3,7 @@ layout: post
 title: "70/365 - light painting"
 microblog: false
 audio: 
-date: 2017-09-01 21:56:00 +0200
+date: 2017-09-01 20:56:00 +0100
 guid: http://maintainingfocus.micro.blog/2017/09/01/light-painting.html
 ---
 ![light painting](https://f000.backblazeb2.com/file/Roel-Share/light-painting.jpg)
