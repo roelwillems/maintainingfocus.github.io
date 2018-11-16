@@ -1,27 +1,16 @@
-# # # # # # # #
-#   K i k o   #
-# # # # # # # #
+# Dependencies
+# - markdown:         redcarpet
+highlighter:      rouge
 
-# - markdown: kramdown
+# Permalinks
+# - permalink:        pretty
+# - relative_permalinks: true
 
-# Sass
-sass:
-  style:            :compressed
+# Custom vars
+version:          2.1.0
 
-# Scopes
-defaults:
-  -
-    scope:
-      path:         ""
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      path:         ""
-      type:         "posts"
-    values:
-      layout:       "post"
+github:
+  repo:           https://github.com/poole/hyde
 
 title: "Maintaining Focus"
 tagline: ""
